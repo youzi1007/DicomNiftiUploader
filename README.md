@@ -38,6 +38,8 @@ DicomNiftiModule/
 Download and install the latest stable version from:  
 https://www.slicer.org/
 
+**(If you need to use MONAI label auto segmentation install Slicer 5.4.0)**
+
 #### Install `dcm2niix`
 
 This tool is required to convert DICOM series into NIfTI format.
