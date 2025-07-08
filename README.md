@@ -1,7 +1,7 @@
 # DicomNiftiModule
 
 A 3D Slicer extension for converting DICOM series to NIfTI (`.nii.gz`) format using `dcm2niix`, with optional one-click upload to a MONAI Label Server studies folder.
-**
+
 ---
 
 ## Features
